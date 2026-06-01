@@ -1,0 +1,21 @@
+-> Create win animations 
+    -> Some fireworks, cards moving around.
+-> Setup sound
+    -> Card flip noises
+    -> Win sounds
+        -> fireworks
+
+-> Design Red Panda mascot.
+    -> Idle animations
+    -> Hold the pause menu like a handheld sign
+
+-> Add in difficulties
+    -> 4 suits for hard
+    -> 2 for medium
+    -> 1 for easy
+
+-> Allow customization
+    -> User should be able to add their own images for the cards and backgrounds if they want
+    -> User should be able to change the size of the cards
+
+-> Create final version of background and cardBack.
