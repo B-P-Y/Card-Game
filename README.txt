@@ -1,6 +1,8 @@
  Card Game using C++ and SDL3.
 The project includes 4 solitaire variants: Klondike, Pyramid, Spider and Freecell.
 
+This project is still in development. See TODO for more info.
+
 Requirements
 - C++17 compiler
 - CMake 3.20+
