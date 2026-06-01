@@ -1,3 +1,0 @@
-C:/Documents/Programming/newC++/MG/Build/CMakeFiles/CardGame.dir
-C:/Documents/Programming/newC++/MG/Build/CMakeFiles/ALL_BUILD.dir
-C:/Documents/Programming/newC++/MG/Build/CMakeFiles/ZERO_CHECK.dir
